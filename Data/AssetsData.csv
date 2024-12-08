@@ -1,0 +1,151 @@
+asset_id,asset_type,asset_name
+1,2,"Donnelly, Lind and Wiegand"
+2,3,Zulauf-Smith
+3,1,Bernhard Group
+4,1,Stokes LLC
+5,2,Walter and Sons
+6,2,"Champlin, Ernser and Jakubowski"
+7,3,Corwin Inc
+8,3,"Gleichner, Schowalter and Kerluke"
+9,2,Kris Group
+10,3,Pollich-Feeney
+11,2,Shanahan Group
+12,3,Hahn Group
+13,3,O'Conner-Gutmann
+14,3,Robel-Heaney
+15,2,Langworth LLC
+16,3,Gleichner-Oberbrunner
+17,1,Stokes-Bahringer
+18,2,Quitzon Group
+19,3,Kuhn-McLaughlin
+20,1,Koch-Mayert
+21,2,Marquardt LLC
+22,3,Klocko-Kunde
+23,3,Cummerata-Marquardt
+24,1,Cummerata-Yost
+25,2,Watsica LLC
+26,1,"Ondricka, Schulist and Rutherford"
+27,3,Torp LLC
+28,1,"Botsford, Leffler and Schamberger"
+29,2,Strosin-Schamberger
+30,1,Thiel-Stark
+31,3,Johnston-Lemke
+32,1,Luettgen-Moore
+33,2,Simonis-Funk
+34,2,Gutkowski-Lubowitz
+35,2,Leuschke Group
+36,2,Cummings Inc
+37,1,Metz-Legros
+38,3,Sanford Group
+39,2,"Kshlerin, Streich and Dickens"
+40,3,Sawayn Inc
+41,3,Nitzsche and Sons
+42,2,Rolfson and Sons
+43,1,Leuschke Group
+44,2,Crooks-Goldner
+45,2,O'Reilly and Sons
+46,2,"Turcotte, Krajcik and Schaden"
+47,1,Abernathy Group
+48,3,Rempel-Lesch
+49,3,Rosenbaum-Crona
+50,2,Ankunding-Zemlak
+51,3,"Cremin, Wilderman and Beatty"
+52,2,Wolff Inc
+53,1,Bailey LLC
+54,1,Becker-Mertz
+55,1,Hoppe-Jakubowski
+56,3,Rippin-Green
+57,1,Zboncak-Predovic
+58,3,Nicolas Group
+59,2,"D'Amore, Denesik and Tromp"
+60,1,Simonis and Sons
+61,2,"Mraz, Lueilwitz and Boyer"
+62,3,Kreiger-Leffler
+63,3,McLaughlin-Zemlak
+64,1,"Howell, Nader and Zulauf"
+65,3,"Powlowski, Balistreri and Veum"
+66,3,Flatley and Sons
+67,3,Hahn-Steuber
+68,1,Steuber LLC
+69,3,"Schowalter, Gutkowski and Crooks"
+70,2,Cole and Sons
+71,1,"Upton, Will and Hagenes"
+72,1,"Lowe, Gislason and Kub"
+73,2,"Jones, Haley and Crist"
+74,3,"Cremin, O'Conner and Franecki"
+75,1,"Miller, Waters and Lubowitz"
+76,3,"Hills, Franecki and Kuhn"
+77,1,Green-Kohler
+78,1,"Howe, Graham and Wilderman"
+79,1,Moore Inc
+80,2,Mitchell-Powlowski
+81,1,"Berge, Dach and Powlowski"
+82,2,Rolfson-Conroy
+83,2,Huel-Stroman
+84,3,"Franecki, Kassulke and Lindgren"
+85,3,Mann LLC
+86,2,Corwin LLC
+87,2,"Barrows, Carroll and Marvin"
+88,2,Romaguera-Jacobi
+89,1,Lemke-Collins
+90,2,Sauer-Windler
+91,3,Kemmer LLC
+92,1,"Mayert, Carter and Gottlieb"
+93,2,VonRueden-Legros
+94,1,Abernathy Inc
+95,1,Considine LLC
+96,2,Wiegand LLC
+97,1,Bode-Strosin
+98,1,Botsford-Lubowitz
+99,1,Quigley Group
+100,3,Braun LLC
+101,3,"Stanton, Frami and Fisher"
+102,2,Larson Group
+103,2,Haley LLC
+104,1,"Osinski, Koss and Morissette"
+105,2,"Wuckert, Aufderhar and Daniel"
+106,1,Steuber and Sons
+107,1,McKenzie LLC
+108,1,Upton LLC
+109,2,Kub-Hirthe
+110,1,Koelpin Inc
+111,3,Miller and Sons
+112,1,Ullrich-Boyer
+113,1,Trantow Group
+114,2,Windler-Strosin
+115,2,Jacobi-Ritchie
+116,3,"Doyle, Nikolaus and Hamill"
+117,2,"Watsica, Rippin and Bogisich"
+118,3,Ondricka-Schaden
+119,3,"Lang, Bergstrom and Kreiger"
+120,2,"Pfeffer, Stark and Rau"
+121,3,Heaney-Kilback
+122,2,Quitzon-Torp
+123,1,Jenkins LLC
+124,1,"Schoen, Cormier and Bednar"
+125,2,Halvorson and Sons
+126,2,Gerlach-Volkman
+127,3,O'Conner Group
+128,3,Weber LLC
+129,2,Hayes Group
+130,2,Wuckert-Schroeder
+131,3,"Wiza, Mohr and Hoeger"
+132,1,Weber Inc
+133,3,Auer and Sons
+134,1,"Rempel, Glover and McGlynn"
+135,3,Stoltenberg Inc
+136,3,"Runolfsdottir, Larkin and Stiedemann"
+137,2,Walsh-Dicki
+138,2,Macejkovic Inc
+139,3,Reynolds and Sons
+140,1,O'Hara Group
+141,1,Hand and Sons
+142,1,"O'Kon, Balistreri and Schaden"
+143,3,"Johns, Fritsch and Feeney"
+144,1,Lynch-Goodwin
+145,2,Carter and Sons
+146,3,Emard-Beatty
+147,2,Morissette and Sons
+148,2,Mueller-King
+149,2,"Ward, Little and Roberts"
+150,1,"Corwin, Jacobson and Huel"
